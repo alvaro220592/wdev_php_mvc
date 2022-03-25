@@ -12,6 +12,10 @@ class Home
      */
     public static function getHome()
     {
-        return View::render('pages/home');
+        return View::render('pages/home', [
+            'nome' => 'Álvaro',
+            'idade' => 29,
+            'profissao' => 'Programador'
+        ]);
     }
 }

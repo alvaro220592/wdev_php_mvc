@@ -1,2 +1,2 @@
 a pasta utils vai armazenar a classe q vai retornar as views
-parei no minuto 13
+parei no minuto 21
